@@ -1,2 +1,2 @@
 # devops
-setup git
+setup gitjekjfkewkjrf
